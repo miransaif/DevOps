@@ -1,4 +1,4 @@
-#Technical Assessment
+#DevOps CI/CD Pipeline Code
 While creating an Instance in AWS select AMI "Ubuntu"
 configure proper security groups whcih includes allowing Http and SSH
 in user date add this code
